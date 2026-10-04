@@ -39,7 +39,6 @@ apis:
   - name: City, Gdynia
     description: "Gdynia (PL) City Open Data"
     humanURL: http://otwartedane.gdynia.pl/en/api_doc.html
-    baseURL: http://otwartedane.gdynia.pl/en/api_doc.html
     tags:
       - Government
     properties:
